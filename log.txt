@@ -1,0 +1,26 @@
+
+info [Tue Sep 10 2019 11:17:54 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User Created: FooBar password123 foobar@test.com.
+
+info [Tue Sep 10 2019 11:18:09 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - User not created: Duplicate User (FooBar) found!
+
+info [Tue Sep 10 2019 11:18:57 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User: FooBar foobar@test.com.
+
+info [Tue Sep 10 2019 11:19:07 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User Created: BizBaz password456 bizbaz@test.com.
+
+info [Tue Sep 10 2019 11:20:56 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - Users:FooBar, foobar@test.com'; BizBaz, bizbaz@test.com'; 
+
+info [Tue Sep 10 2019 11:21:26 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User Updated: FooBar foobar@hig.com.
+
+info [Tue Sep 10 2019 11:21:36 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User: FooBar foobar@hig.com.
+
+info [Tue Sep 10 2019 11:21:47 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - User (BizBaz) deleted.
+
+info [Tue Sep 10 2019 11:22:09 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - Users:FooBar, foobar@hig.com'; 
+
+info [Tue Sep 10 2019 11:22:21 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - Command not found!
+
+info [Tue Sep 10 2019 11:22:31 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - User (BingBang) not found!
+
+info [Tue Sep 10 2019 11:22:38 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - User not created: Duplicate User (FooBar) found!
+
+info [Tue Sep 10 2019 11:22:50 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - Invalid credentials
