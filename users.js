@@ -20,7 +20,7 @@ var saveUsers = (users) => {
 var insertUser = (username, password, email) => {
     var users = getUsers();
     var user = {username, password, email}
-}
+
 
 //ensures no username or email dupes
 var duplicateUsers = users.filter((user) => {
@@ -33,7 +33,7 @@ if (duplicateUsers.length === 0) {
     saveUsers(users);
     return user;
 }
-
+};
 //get user by username 
 var getUser = (username) => {
     var users = getUsers();
